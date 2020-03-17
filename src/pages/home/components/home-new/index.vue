@@ -8,7 +8,10 @@
 
 <script>
     export default {
-        name: "New"
+        name: "New",
+        mounted() {
+            uni.setNavigationBarTitle({title: '最新'})
+        }
     }
 </script>
 

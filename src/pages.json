@@ -12,6 +12,12 @@
       }
     },
     {
+      "path": "pages/album/index",
+      "style": {
+        "navigationBarTitleText": "专辑"
+      }
+    },
+    {
       "path": "pages/horizontal/index",
       "style": {
         "navigationBarTitleText": "横屏显示"
@@ -33,6 +39,24 @@
       "path": "pages/video/index",
       "style": {
         "navigationBarTitleText": "视频"
+      }
+    },
+    {
+      "path": "pages/videoPlay/index",
+      "style": {
+        "navigationBarTitleText": "视频播放"
+      }
+    },
+    {
+      "path": "pages/imgDetail/index",
+      "style": {
+        "navigationBarTitleText": "图片详情"
+      }
+    },
+    {
+      "path": "pages/imgCategory/index",
+      "style": {
+        "navigationBarTitleText": "图片分类"
       }
     }
   ],
